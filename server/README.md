@@ -1,1 +1,1 @@
-Demo/Tutorial how to work with manve, jetty, jersey.
+ChunChung's 1st advanced database homework 
